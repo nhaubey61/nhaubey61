@@ -1,2 +1,2 @@
 Just another file in the root of the working directory
-Line is replaced in master
+
